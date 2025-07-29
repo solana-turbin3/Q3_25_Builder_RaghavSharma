@@ -4,3 +4,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/Some1Uknow/anchor-vault.git
+[submodule "NFT-marketplace"]
+	path = NFT-marketplace
+	url = https://github.com/Some1Uknow/NFT-marketplace.git
