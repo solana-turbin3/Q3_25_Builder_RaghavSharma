@@ -7,3 +7,6 @@
 [submodule "NFT-marketplace"]
 	path = NFT-marketplace
 	url = https://github.com/Some1Uknow/NFT-marketplace.git
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/Some1Uknow/capstone_freelance_escrow.git
